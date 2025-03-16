@@ -2,7 +2,7 @@
 
 **请查看我的博客原文：** https://blog.csdn.net/gfg156196/article/details/120849600
 
-
+![avatar](https://github.com/Pangu-Immortal/Pangu-Immortal/blob/main/getqrcode.png)
 **工程中的示例apk下载地址，自己下载体验：**  
 
 
