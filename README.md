@@ -1,11 +1,12 @@
 
+
+# Android12 SplashScreen API 的所有功能
+
 <div align="center">
 
 ![萌萌计数器](https://count.getloli.com/get/@SplashScreens?theme=rule34)
 
 </div>
-
-# Android12 SplashScreen API 的所有功能
 
 **请查看我的博客原文：** https://blog.csdn.net/gfg156196/article/details/120849600
 
