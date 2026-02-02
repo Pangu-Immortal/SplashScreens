@@ -1,3 +1,5 @@
+![访客统计](https://count.getloli.com/get/@SplashScreens?theme=rule34)
+
 # Android12 SplashScreen API 的所有功能
 
 **请查看我的博客原文：** https://blog.csdn.net/gfg156196/article/details/120849600
@@ -27,3 +29,24 @@
 <div align="center">
 <img height="300px" src="https://github.com/yugu88/SplashScreens/blob/main/%E5%AE%9E%E8%B7%B5%EF%BC%9A%E5%90%AF%E5%8A%A8%E9%A1%B5-%E5%BC%80%E5%B1%8F%E5%B9%BF%E5%91%8A.gif"/><br/><b>实践 - 启动页添加广告或者推广页</b>
 </div>
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Pangu-Immortal/SplashScreens&type=Date)](https://star-history.com/#Pangu-Immortal/SplashScreens&Date)
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
