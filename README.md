@@ -8,6 +8,10 @@
 
 </div>
 
+<p align="center">
+  <b>⭐ 点击 <a href="https://github.com/Pangu-Immortal/SplashScreens">Star</a>，关注不迷路 ⭐</b>
+</p>
+
 **请查看我的博客原文：** https://blog.csdn.net/gfg156196/article/details/120849600
 
 ![avatar](https://github.com/Pangu-Immortal/Pangu-Immortal/blob/main/getqrcode.png)
